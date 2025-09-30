@@ -13,7 +13,7 @@ When you create a Pull Request from a forked repository, the following automated
 1. **Initial Scan**: 
    - The workflow checks your PR and leaves an initial comment acknowledging receipt
    - It verifies if your PR branch name doesn't conflict with existing branches in the main repository
-   - It checks if your branch is in sync with the latest `main` branch
+   - It checks if your branch is in sync with the lates t `main` branch
 
    **Sample Comment:**
    ```
