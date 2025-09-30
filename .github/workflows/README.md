@@ -3,7 +3,7 @@
 This directory contains GitHub Actions workflows that automate various tasks in this repository.
 
 ## Fork PR Handler Workflow
-
+ 
 The `fork-pr-handler.yml` workflow is designed to handle Pull Requests from forked repositories and enable automated scanning of external contributions while maintaining security.
 
 ### How it Works
